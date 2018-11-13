@@ -1,0 +1,7 @@
+C:\Users\shlok\Desktop\A2SHLOKBAWAP1\A2SHLOKBAWAP1\bin\Debug\A2SHLOKBAWAP1.exe.config
+C:\Users\shlok\Desktop\A2SHLOKBAWAP1\A2SHLOKBAWAP1\bin\Debug\A2SHLOKBAWAP1.exe
+C:\Users\shlok\Desktop\A2SHLOKBAWAP1\A2SHLOKBAWAP1\bin\Debug\A2SHLOKBAWAP1.pdb
+C:\Users\shlok\Desktop\A2SHLOKBAWAP1\A2SHLOKBAWAP1\obj\Debug\A2SHLOKBAWAP1.csprojAssemblyReference.cache
+C:\Users\shlok\Desktop\A2SHLOKBAWAP1\A2SHLOKBAWAP1\obj\Debug\A2SHLOKBAWAP1.csproj.CoreCompileInputs.cache
+C:\Users\shlok\Desktop\A2SHLOKBAWAP1\A2SHLOKBAWAP1\obj\Debug\A2SHLOKBAWAP1.exe
+C:\Users\shlok\Desktop\A2SHLOKBAWAP1\A2SHLOKBAWAP1\obj\Debug\A2SHLOKBAWAP1.pdb
